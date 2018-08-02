@@ -10,6 +10,7 @@ int main (void)
     int finalscore = 0;
     bool strike = false;
     bool spare = false;
+    bool double10strike = false;
 
     for (int i = 0; i < 20; i++)
     {
